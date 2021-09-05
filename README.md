@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/Vuxmglg.png">
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F776BA&size=60&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+hito...">
 </h1>
 <ul>
