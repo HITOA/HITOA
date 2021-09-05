@@ -10,4 +10,4 @@
 </ul>
 
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=HITOA&hide=stars&theme=dracula&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HITOA&hide=stars&theme=dracula&show_icons=true">
