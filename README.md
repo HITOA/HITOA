@@ -3,7 +3,7 @@
 </h1>
 <ul>
 
-<li>I'm a self-taught programmer who like to dig deep into a lot of random things <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/HITOA/HITOA/main/645431425289420800.png"></li>
+<li>Randome dude who like to dig deep into a lot of random things <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/HITOA/HITOA/main/645431425289420800.png"></li>
 <li>I'm doing mostly <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" align="center" width="35" height="35"/> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" align="center" width="35" height="35"/> but others stuff are cool too !</li>
 <li>Reverse Engineering and Machin Learning are cool, Game and Anime are cool too</li>
 <li>I like to create things. Music is life <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/HITOA/HITOA/main/773529306953547799.gif"> </li>
