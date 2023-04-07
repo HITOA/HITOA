@@ -1,5 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/HITOA/HITOA/main/stripbanner.png">
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=fcba03&size=60&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+hito...">
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0339fc&size=60&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+hito...">
 </h1>
 <ul>
 
@@ -10,4 +10,4 @@
 </ul>
 
 ##
-<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=HITOA&hide=stars&theme=dracula&show_icons=true"><h1>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=HITOA&hide=stars&show_icons=true"><h1>
