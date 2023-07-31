@@ -8,6 +8,3 @@
 <li>Reverse Engineering and Machin Learning are cool, Game and Anime are cool too</li>
 <li>I like to create things. Music is life <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/HITOA/HITOA/main/773529306953547799.gif"> </li>
 </ul>
-
-##
-<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=HITOA&hide=stars&show_icons=true"><h1>
